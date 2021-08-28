@@ -3,6 +3,12 @@ h1 {
     color: rgb(247, 57, 23);
 }
 
+.alert {
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+
 .input-area {
     display: flex;
     align-items: center;
